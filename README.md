@@ -2,7 +2,7 @@
 
 Documentation for the Tutors application.
 
-Learn to:
+In this tutorial, you will:
  - Setup a Tutors course and deploy via Netlify.
  - Understand the structure of a Tutors course.
  - Update a Tutors course using the Markdown notation.
