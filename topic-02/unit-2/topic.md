@@ -1,1 +1,1 @@
-GitHub Integration
+GitHub Workflow

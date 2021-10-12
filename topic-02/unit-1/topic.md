@@ -1,1 +1,1 @@
-# Format a Course with Markdown
+# Format a Course
