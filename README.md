@@ -2,6 +2,8 @@
 
 Documentation for the Tutors application.
 
+tutors-docs.netlify.app
+
 In this tutorial, you will:
  - Setup a Tutors course and deploy via Netlify.
  - Understand the structure of a Tutors course.
