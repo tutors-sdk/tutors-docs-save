@@ -1,1 +1,1 @@
-# Creating a Course
+# Essentials
