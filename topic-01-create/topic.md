@@ -3,6 +3,6 @@ icon:
   type: flat-color-icons:reading
 ---
 
-# Creating
+# Create
 
 Creating, edititng and publishing a course
