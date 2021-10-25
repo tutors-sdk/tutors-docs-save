@@ -1,8 +1,13 @@
 ---
-icon:
-  type: flat-color-icons:sports-mode
+
+icon: 
+
+  type: openmoji:man-artist-medium-dark-skin-tone
+
+  color: pink
+
 ---
 
-# Deep Dive
+# Design
 
-<b>Format your course using the Markdown notation</b>
+Explore the Design of Tutors

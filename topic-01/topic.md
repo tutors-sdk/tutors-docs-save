@@ -3,6 +3,6 @@ icon:
   type: flat-color-icons:reading
 ---
 
-# Get Started
+# Creating
 
-<b>Setup a Tutors course and learn the basics</b>
+Creating, edititng and publishing a course
