@@ -5,4 +5,4 @@ icon:
 
 # Create
 
-Creating, editing and publishing a course
+Creating, edititng and publishing a course
