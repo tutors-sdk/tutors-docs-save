@@ -10,4 +10,4 @@ icon:
 
 # Reader
 
-The Tutors front-end application
+The Tutors Front-end Application

@@ -2,9 +2,9 @@
 
 icon: 
 
-  type: fa-solid:chalkboard-teacher
+  type: ftabler:geometry
 
-  color: 1e81b0
+  color: DarkSeaGreen
 
 ---
 
