@@ -10,4 +10,4 @@ icon:
 
 # Kitchen Sink
 
-Tester site showing 'Icon Park' icons
+Larger course demonstrating range of features

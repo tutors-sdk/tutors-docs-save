@@ -1,6 +1,7 @@
 ---
 icon:
-  type: flat-color-icons:reading
+  type: fa-solid:chalkboard-teacher
+  color: 1e81b0
 ---
 
 # Tutors Documentation

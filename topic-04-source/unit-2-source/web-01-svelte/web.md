@@ -8,6 +8,6 @@ icon:
 
 ---
 
-# Readet
+# Reader
 
-The Tutors front-end application, implemented in Svelte
+The Tutors front-end application

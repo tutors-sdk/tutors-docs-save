@@ -2,12 +2,10 @@
 
 icon: 
 
-  type: openmoji:1st-place-medal
-
-  color: pink
+  type: logos:typescript
 
 ---
 
 # Lib
 
-Tutors Information Model + Parsers
+Tutors Information Model Parser
