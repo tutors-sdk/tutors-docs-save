@@ -1,6 +1,6 @@
 ---
 icon:
-  type: flat-color-icons:reading
+  type: flat-color-icons:parallel-tasks
 ---
 
 # Create

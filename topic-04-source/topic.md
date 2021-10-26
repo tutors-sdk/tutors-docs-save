@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: ftabler:geometry
+  type: tabler:geometry
 
   color: DarkSeaGreen
 
