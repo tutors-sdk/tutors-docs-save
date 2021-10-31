@@ -10,4 +10,4 @@ icon:
 
 # Tutors Monorepo
 
-Mono repot for tutors-lib, tutors-json, tutors-html
+Monorepo for tutors-lib, tutors-json, tutors-html
