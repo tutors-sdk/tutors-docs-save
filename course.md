@@ -6,4 +6,4 @@ icon:
 
 # Tutors Documentation
 
-<b>Documentation for the Tutors application</b>
+Documentation for the Tutors application
