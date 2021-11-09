@@ -10,4 +10,4 @@ icon:
 
 # Useful Links
 
-ZIP file containing additional supporting websites.
+ZIP file containing additional supporting websites
