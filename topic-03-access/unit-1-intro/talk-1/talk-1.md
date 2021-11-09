@@ -10,4 +10,4 @@ icon:
 
 # Intro to Accessiblity
 
-One size does not fit all.
+One size does not fit all
